@@ -54,7 +54,6 @@ No credentials or API keys are included in this repository — all connections m
 - 
 ## Sample Output
 
-![Sample Google Sheet Output]
 <img width="1004" height="553" alt="image" src="https://github.com/user-attachments/assets/eda36bb8-136e-4012-84fd-6a7772cd3c3f" />
 
 
