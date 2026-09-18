@@ -7,6 +7,7 @@ An automated resume screening workflow built with n8n that reads resumes sent vi
 This workflow demonstrates an end-to-end AI recruitment automation: handling file attachments, converting document formats, extracting text, running LLM-based reasoning against a job description, and structuring the output for easy review.
 
 ## How It Works
+<img width="1152" height="237" alt="image" src="https://github.com/user-attachments/assets/acc67263-29a6-4869-87da-b52f1c34476c" />
 
 1. **Gmail Trigger** — listens for incoming emails with resume attachments (Word, PDF, or text files)
 2. **Google Drive Upload** — saves the resume attachment to a designated Drive folder
@@ -50,7 +51,15 @@ No credentials or API keys are included in this repository — all connections m
 ## Notes
 
 - This is a portfolio/demo project. The workflow is kept **inactive** in n8n and was only run manually for testing.
+- 
+## Sample Output
+
+![Sample Google Sheet Output]
+<img width="1004" height="553" alt="image" src="https://github.com/user-attachments/assets/eda36bb8-136e-4012-84fd-6a7772cd3c3f" />
+
 
 ## Demo
 
 [Watch the demo video](https://youtu.be/XFQWmCpasDk?si=tNsjDbDBT8-dnFIA)
+
+
